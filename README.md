@@ -8,7 +8,7 @@ A data-driven case study built to support strategic decision-making at AtliQ Har
 
 ## 📊 Project Snapshot
 
-- 🎯 **Industry**: Consumer Electronics  
+- 🎯 **Domain**: Consumer Goods  
 - 🧩 **Use Case**: Executive Management Decision Support  
 - 🛠️ **Skills**: SQL, Data Storytelling, Analytical Thinking  
 - 📈 **Difficulty**: Intermediate (2.5/5)  
@@ -17,7 +17,7 @@ A data-driven case study built to support strategic decision-making at AtliQ Har
 
 ## 🧠 About the Project
 
-AtliQ Hardware — a major player in the electronics market — sought to enhance its data strategy by uncovering trends in customer behavior, sales performance, and pricing impact. As part of a simulated SQL challenge for hiring junior analysts, this project showcases how structured queries can lead to executive-level insights.
+AtliQ Hardware — a major player in the electronics market — sought to enhance its data strategy by uncovering trends in customer behavior, sales performance, and pricing impact. As part of a simulated SQL challenge, this project showcases how structured queries can lead to executive-level insights.
 
 From understanding top-performing channels to evaluating seasonal patterns and customer trends, this project demonstrates a comprehensive approach to solving real-world business problems through SQL.
 
