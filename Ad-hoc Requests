@@ -1,0 +1,72 @@
+As part of the AtliQ Hardware Sales Analysis project, these 10 ad-hoc SQL challenges represent real business questions posed by management to gain deeper insights and make data-driven decisions. Each request targets a specific aspect of sales, product performance, or customer behavior, helping us deliver actionable intelligence for executive management.
+
+---
+
+## Codebasics SQL Challenge Requests
+
+1. **List of markets**  
+   Provide the list of markets in which customer **"Atliq Exclusive"** operates its business in the APAC region.
+
+2. **Percentage of unique product increase**  
+   Calculate the percentage increase of unique products in 2021 versus 2020.  
+   **Output fields:**  
+   - unique_products_2020  
+   - unique_products_2021  
+   - percentage_chg
+
+3. **Unique product counts by segment**  
+   Provide a report with all the unique product counts for each segment, sorted in descending order of product counts.  
+   **Output fields:**  
+   - segment  
+   - product_count
+
+4. **Segment with highest increase in unique products**  
+   Identify the segment with the largest increase in unique products from 2020 to 2021.  
+   **Output fields:**  
+   - segment  
+   - product_count_2020  
+   - product_count_2021  
+   - difference
+
+5. **Products with highest and lowest manufacturing costs**  
+   Retrieve products with the highest and lowest manufacturing costs.  
+   **Output fields:**  
+   - product_code  
+   - product  
+   - manufacturing_cost
+
+6. **Top 5 customers by average discount (FY 2021, Indian market)**  
+   Generate a report of the top 5 customers who received the highest average pre-invoice discount percentage in fiscal year 2021 within the Indian market.  
+   **Output fields:**  
+   - customer_code  
+   - customer  
+   - average_discount_percentage
+
+7. **Monthly gross sales for customer “Atliq Exclusive”**  
+   Provide a complete monthly report of the gross sales amount for customer "Atliq Exclusive" to analyze low and high-performing months for strategic decisions.  
+   **Output fields:**  
+   - Month  
+   - Year  
+   - Gross sales Amount
+
+8. **Quarter with maximum total sold quantity (2020)**  
+   Identify the quarter in 2020 with the highest total sold quantity.  
+   **Output fields:**  
+   - Quarter  
+   - total_sold_quantity (sorted)
+
+9. **Channel contribution to gross sales (FY 2021)**  
+   Determine which sales channel contributed the most to gross sales in fiscal year 2021, along with the percentage contribution.  
+   **Output fields:**  
+   - channel  
+   - gross_sales_mln  
+   - percentage
+
+10. **Top 3 products per division by total sold quantity (FY 2021)**  
+    List the top 3 products in each division that have the highest total sold quantity in fiscal year 2021.  
+    **Output fields:**  
+    - division  
+    - product_code  
+    - product  
+    - total_sold_quantity  
+    - rank_order
