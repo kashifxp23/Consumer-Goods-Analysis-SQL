@@ -1,4 +1,4 @@
-# Consumer-Goods-Analysis-SQL
+# Consumer-Goods-Analysis-SQL [AD-HOC Insights]
 
 # 🚀 AtliQ Hardware SQL Sales Analysis
 
