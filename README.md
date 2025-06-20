@@ -11,7 +11,6 @@ A data-driven case study built to support strategic decision-making at AtliQ Har
 - 🎯 **Domain**: Consumer Goods  
 - 🧩 **Use Case**: Executive Management Decision Support  
 - 🛠️ **Skills**: SQL, Data Storytelling, Analytical Thinking  
-- 📈 **Difficulty**: Intermediate (2.5/5)  
 
 ---
 
